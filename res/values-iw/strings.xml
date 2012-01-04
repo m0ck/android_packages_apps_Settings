@@ -334,9 +334,9 @@
     <string name="unlock_backup_info_summary" msgid="108524727803788172">"כש\'זיהוי פרצוף\' לא יכול לראות אותך, איך אתה רוצה לבטל את הנעילה?"</string>
     <string name="unlock_set_unlock_off_title" msgid="7117155352183088342">"ללא"</string>
     <string name="unlock_set_unlock_off_summary" msgid="94361581669110415"></string>
-    <string name="unlock_set_unlock_none_title" msgid="2871898266296656162">"הסט"</string>
+    <string name="unlock_set_unlock_none_title" msgid="2871898266296656162">"החלקה"</string>
     <string name="unlock_set_unlock_none_summary" msgid="8914673583104628191">"אין אבטחה"</string>
-    <string name="unlock_set_unlock_biometric_weak_title" msgid="2227215291604628670">"זיהוי פרצוף"</string>
+    <string name="unlock_set_unlock_biometric_weak_title" msgid="2227215291604628670">"זיהוי פנים"</string>
     <string name="unlock_set_unlock_biometric_weak_summary" msgid="180083326982058964">"אבטחה נמוכה, ניסיוני"</string>
     <string name="unlock_set_unlock_pattern_title" msgid="2912067603917311700">"קו"</string>
     <string name="unlock_set_unlock_pattern_summary" msgid="7062696666227725593">"אבטחה בינונית"</string>
@@ -346,8 +346,8 @@
     <string name="unlock_set_unlock_password_summary" msgid="8856220848940929546">"אבטחה גבוהה"</string>
     <string name="unlock_set_unlock_disabled_summary" msgid="2120729867788851674">"הושבת על ידי מדיניות ההצפנה של מנהל המערכת, או אחסון האישורים"</string>
     <string name="unlock_set_unlock_mode_off" msgid="5881952274566013651">"ללא"</string>
-    <string name="unlock_set_unlock_mode_none" msgid="5660014471997663139">"הסט"</string>
-    <string name="unlock_set_unlock_mode_biometric_weak" msgid="3008473624490350142">"זיהוי פרצוף"</string>
+    <string name="unlock_set_unlock_mode_none" msgid="5660014471997663139">"החלקה"</string>
+    <string name="unlock_set_unlock_mode_biometric_weak" msgid="3008473624490350142">"זיהוי פנים"</string>
     <string name="unlock_set_unlock_mode_pattern" msgid="464022606293547390">"מאובטח עם קו"</string>
     <string name="unlock_set_unlock_mode_pin" msgid="1379365142708807163">"מאובטח עם PIN"</string>
     <string name="unlock_set_unlock_mode_password" msgid="6955742995327081060">"מאובטח עם סיסמה"</string>
@@ -596,7 +596,7 @@
     <string name="vibrate_in_silent_title" msgid="3897968069156767036">"רטט במצב שקט"</string>
     <string name="vibrate_on_ring_title" msgid="40343855247989536">"רטט וצלצול"</string>
     <string name="notification_sound_title" msgid="312032901303146002">"הודעת ברירת מחדל"</string>
-    <string name="notification_pulse_title" msgid="1247988024534030629">"תאורת התראה של אות"</string>
+    <string name="notification_pulse_title" msgid="1247988024534030629">"הבהוב אור בהתראות"</string>
     <string name="incoming_call_volume_title" msgid="8073714801365904099">"צלצול"</string>
     <string name="notification_volume_title" msgid="2012640760341080408">"התראה"</string>
     <string name="checkbox_notification_same_as_incoming_call" msgid="1073644356290338921">"השתמש בעוצמת הקול של שיחות נכנסות להתראות"</string>
@@ -633,7 +633,7 @@
     <string name="sync_settings" msgid="9186125469300013491">"חשבונות וסינכרון"</string>
     <string name="search_settings" msgid="1910951467596035063">"חיפוש"</string>
     <string name="search_settings_summary" msgid="9205656546570654169">"ניהול הגדרות והיסטוריה של חיפוש"</string>
-    <string name="display_settings" msgid="7965901687241669598">",תצוגה"</string>
+    <string name="display_settings" msgid="7965901687241669598">"תצוגה"</string>
     <string name="accelerometer_title" msgid="7854608399547349157">"סיבוב אוטומטי של המסך"</string>
     <string name="accelerometer_summary_on" product="tablet" msgid="429982132339828942">"שנה כיוון באופן אוטומטי בעת סיבוב הטבלט"</string>
     <string name="accelerometer_summary_on" product="default" msgid="1133737282813048021">"שנה כיוון באופן אוטומטי בעת סיבוב הטלפון"</string>
@@ -705,8 +705,8 @@
     <string name="status_prl_version" msgid="8499039751817386529">"גרסת PRL"</string>
     <string name="status_meid_number" msgid="1751442889111731088">"MEID"</string>
     <string name="status_icc_id" msgid="943368755577172747">"ICCID"</string>
-    <string name="status_network_type" msgid="3279383550222116235">"סוג רשת לנייד"</string>
-    <string name="status_data_state" msgid="5503181397066522950">"מצב רשת לנייד"</string>
+    <string name="status_network_type" msgid="3279383550222116235">"סוג רשת סלולר"</string>
+    <string name="status_data_state" msgid="5503181397066522950">"מצב תקשורת נתונים"</string>
     <string name="status_service_state" msgid="2323931627519429503">"מצב שירות"</string>
     <string name="status_signal_strength" msgid="3732655254188304547">"עוצמת אות"</string>
     <string name="status_roaming" msgid="2638800467430913403">"נדידה"</string>
@@ -867,10 +867,10 @@
     <string name="bluetooth_tethering_overflow_error" msgid="6285122039489881969">"לא ניתן לשתף אינטרנט בין למעלה מ-<xliff:g id="MAXCONNECTION">%1$d</xliff:g> מכשירים."</string>
     <string name="bluetooth_untether_blank" msgid="2871192409329334813">"קשירת <xliff:g id="DEVICE_NAME">%1$s</xliff:g> תבוטל."</string>
     <string name="tethering_help_button_text" msgid="656117495547173630">"עזרה"</string>
-    <string name="network_settings_title" msgid="7967552516440151852">"רשתות לנייד"</string>
+    <string name="network_settings_title" msgid="7967552516440151852">"רשת סלולר"</string>
     <string name="location_title" msgid="1029961368397484576">"המיקום שלי"</string>
     <string name="location_network_based" msgid="5569673665032992664">"שירות המיקום של Google"</string>
-    <string name="location_neighborhood_level" msgid="1337612962522836900">"אפשר ליישומים להשתמש בנתונים ממקורות כגון רשתות Wi-Fi ורשתות לנייד כדי לקבוע את המיקום המשוער שלך"</string>
+    <string name="location_neighborhood_level" msgid="1337612962522836900">"אפשר ליישומים להשתמש בנתונים ממקורות כגון רשתות Wi-Fi ורשתות סלולר כדי לקבוע את המיקום המשוער שלך"</string>
     <string name="location_neighborhood_level_wifi" msgid="7457348712272184793">"המיקום נקבע על ידי Wi-Fi"</string>
     <string name="location_gps" msgid="8392461023569708478">"לווייני GPS"</string>
     <string name="location_street_level" msgid="4244496898967415234">"אפשר ליישומים להשתמש ב-GPS כדי לאתר את המיקום שלך"</string>
@@ -985,7 +985,7 @@
     <string name="filter" msgid="2018011724373033887">"סינון"</string>
     <string name="filter_dlg_title" msgid="8693024463731076091">"בחר אפשרויות סינון"</string>
     <string name="filter_apps_all" msgid="5142129378749391876">"הכל"</string>
-    <string name="filter_apps_third_party" msgid="7786348047690140979">"ההורדה בוצעה"</string>
+    <string name="filter_apps_third_party" msgid="7786348047690140979">"הורדות"</string>
     <string name="filter_apps_running" msgid="7767071454371350486">"פועל"</string>
     <string name="filter_apps_onsdcard" product="nosdcard" msgid="4843063154701023349">"אחסון USB"</string>
     <string name="filter_apps_onsdcard" product="default" msgid="1477351142334784771">"בכרטיס SD"</string>
@@ -1197,7 +1197,7 @@
     <string name="battery_stats_gps_on_label" msgid="1193657533641951256">"GPS מופעל"</string>
     <string name="battery_stats_wifi_running_label" msgid="3093545080361658269">"Wi-Fi"</string>
     <string name="battery_stats_wake_lock_label" msgid="1908942681902324095">"פעיל"</string>
-    <string name="battery_stats_phone_signal_label" msgid="4137799310329041341">"אות רשת לנייד"</string>
+    <string name="battery_stats_phone_signal_label" msgid="4137799310329041341">"אות רשת סלולר"</string>
     <!-- no translation found for battery_stats_last_duration (1535831453827905957) -->
     <skip />
     <string name="awake" msgid="387122265874485088">"זמן פעולה של מכשיר"</string>
@@ -1501,7 +1501,7 @@
     <string name="data_usage_restrict_denied_dialog" msgid="7086969103661420799">"הגבלת נתוני הרקע אפשרית רק אם הגדרת מגבלת נתונים לנייד."</string>
     <string name="data_usage_cycle_editor_title" msgid="1373797281540188533">"תאריך איפוס של מחזור שימוש"</string>
     <string name="data_usage_cycle_editor_subtitle" msgid="5512903797979928416">"תאריך בכל חודש:"</string>
-    <string name="data_usage_cycle_editor_positive" msgid="8821760330497941117">"מערכת"</string>
+    <string name="data_usage_cycle_editor_positive" msgid="8821760330497941117">"אישור"</string>
     <string name="data_usage_warning_editor_title" msgid="3704136912240060339">"הגדר אזהרת שימוש בנתונים"</string>
     <string name="data_usage_limit_editor_title" msgid="9153595142385030015">"הגדר מגבלת שימוש בנתונים"</string>
     <string name="data_usage_limit_dialog_title" msgid="3023111643632996097">"הגבלת שימוש בנתונים"</string>
